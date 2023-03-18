@@ -108,6 +108,10 @@ img {
     border-radius: 25%;
 }
 
+.redes .WhatsApp:hover {
+    color: green;
+}
+
 .redes .facebook:hover {
     color: var(--facebook);
 }
@@ -118,4 +122,34 @@ img {
 
 .redes .twitter:hover {
     color: var(--twitter);
+}
+
+.redes .linkedin:hover {
+    color: var(--linkedin);
+}
+
+.redes .email:hover:hover {
+    color: white;
+}
+
+.redes .github:hover:hover {
+    color: black;
+}
+
+.contacto a{
+    display: block;
+    max-width: 500px;
+    background-color: rgb(41, 99, 193);
+    padding: 15px 30px;
+    font-weight: 700;
+    margin: 15px 0;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.contacto a:hover{
+    background-color: aliceblue;
+    border: 2px solid rgb(41, 99, 193);
+    color: rgb(41, 99, 193);
+    transition: .5s;
 }
