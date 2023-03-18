@@ -100,6 +100,10 @@ footer .barra-footer {
     border: solid black 2px;
 }
 
+.columna-100 {
+    border: 3px solid blue;
+}
+
 img {
     border-radius: 25%;
 }
