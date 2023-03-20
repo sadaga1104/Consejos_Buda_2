@@ -10,11 +10,15 @@
     --linkedin: #0077B5;
 }
 
+
+
 h1 {
     color:steelblue;
     display: flex;
     justify-content: center;
     background-color: black;
+    position: fixed;
+    width: 100%;
 }
 
 .row {
